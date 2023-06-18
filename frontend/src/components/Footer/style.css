@@ -1,0 +1,49 @@
+.footer {
+    flex: 0 0 auto ;
+
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1440px;
+    padding: 50px 50px;
+}
+
+.footer__inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__link {
+   
+    font-family: 'Rosario' ;
+        
+    font-weight: 300;
+    font-size: 15px;
+    width: 300px;
+    padding-top: 25px;
+}
+
+
+
+.text {
+    font-size: 24px;
+    padding: 20px;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.text_info {
+    margin: 20px 100px;
+    
+}
+
+.footer__logo {
+    width: 300px ;
+}
+
+.footer__icon {
+    display: flex;
+    width: 300px ;
+    align-items: center;
+    justify-content: center;
+}

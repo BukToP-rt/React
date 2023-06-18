@@ -1,0 +1,42 @@
+.catalog {
+    width: 100%;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+
+.catalog-container {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.title-ctalog {
+    font-size: 80px;
+
+    margin: 30px 300px;
+}
+
+.nav-catalog {
+    display: flex;
+    justify-content: start;
+    flex-direction: column;
+    width: 300px;
+}
+
+.link {
+    text-transform: uppercase;
+    padding: 20px 30px;
+}
+
+.card-catalog  {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 1000px;
+    width: 100%;
+    margin: 0 auto;
+}
+
